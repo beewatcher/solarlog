@@ -1,5 +1,5 @@
 # solarlog
-Raspberry used to connect to thermosolar control station to pull, process and publish logfiles.
+tl;dr: Raspberry used to connect to thermosolar control station to pull, process and publish logfiles.
 
 The basic motivation for this project was to develop a workaround for manual downloading log files from our solar control station. Earlier it was always necessary to download the files standing beside the wall mounted control station & handling USB cables and laptop somehow without any table or workspace. This manual downloading was followed by showing the log files as nice graphs in a self developed VB application, taking screen dumps to show the graph to our craftsman.
 All this took time and didn't lead to continuity.
